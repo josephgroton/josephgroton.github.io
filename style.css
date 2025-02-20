@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 15px;
+  }
+  
+  footer {
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: center;
+  }
+  
